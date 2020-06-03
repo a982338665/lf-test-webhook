@@ -1,3 +1,5 @@
 {
-  "dependencies": {}
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
 }
